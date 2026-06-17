@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <!-- badge -->
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#FB542B"/>
+  <!-- shield -->
+  <path d="M32 12 L46 17 V31 C46 41 32 50 32 50 C32 50 18 41 18 31 V17 Z" fill="#FFE7DF"/>
+  <!-- sparkle -->
+  <path d="M32 22 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2 Z" fill="#FB542B"/>
+</svg>

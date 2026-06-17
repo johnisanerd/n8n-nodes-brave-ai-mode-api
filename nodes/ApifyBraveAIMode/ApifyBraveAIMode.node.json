@@ -1,0 +1,33 @@
+{
+	"node": "n8n-nodes-brave-ai-mode-api",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Data & Storage",
+		"Analytics"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.apify.com/platform/integrations/n8n"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://apify.com/johnvc/brave-ai-mode-api?fpr=9n7kx3"
+			}
+		]
+	},
+	"alias": [
+		"brave ai mode",
+		"brave search",
+		"brave ai",
+		"aeo",
+		"ai answer",
+		"ai search",
+		"answer engine",
+		"generative search",
+		"privacy search",
+		"apify"
+	]
+}
